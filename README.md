@@ -99,9 +99,9 @@ else:
     print("Element found at index: ",result) 
 ```
 ## Sample Input and Output
-![Alt text](linear.png)
-![Alt text](<iterative method.png>)
-![Alt text](<recive method.png>)
+![Alt text](./linear.png)
+![Alt text](./<iterative method.png>)
+![Alt text](./<recive method.png>)
 
 
 
