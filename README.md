@@ -99,11 +99,9 @@ else:
     print("Element found at index: ",result) 
 ```
 ## Sample Input and Output
-![Alt text](./linear.png)
-![Alt text](./<iterative method.png>)
-![Alt text](./<recive method.png>)
-
-
+![output](linear.png)
+![output](<iterative method.png>)
+![output](<recive method.png>)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
